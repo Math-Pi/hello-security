@@ -1,4 +1,4 @@
-## Spring Security01：Hello Security入门
+# Spring Security01：Hello Security入门
 
 ## 一、创建一个SpringBoot项目
 
@@ -52,7 +52,7 @@ public class HelloController {
 
 ## 四、运行项目
 
-1.可以看到下图生成的密码，账号默认是user
+1.可以看到下图生成的密码，用户名默认是user
 
 ![image-20201101101555472](images/image-20201101101555472.png)
 
